@@ -22,7 +22,7 @@ cd $PROJECT_NAME
 - `docker-compose up` (stop `nginx`, `mysql` if they are running locally or use different port)
 
 ```shell
-docker-compose up
+docker-compose up -d
 ```
 
 ```shell
