@@ -40,6 +40,7 @@ php artisan key:generate
 
 # install all the javascript libraries using npm install
 npm install
+exit
 ```
 
 ## Resources
