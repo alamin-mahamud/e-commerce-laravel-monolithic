@@ -11,7 +11,6 @@
 |
  */
 
-Auth::routes();
-Route::get('/home', 'HomeController@index')->name('home');
-
-Route::get('/', 'LandingPageController@index')->name('landing-page');
+Route::get('/{any}', function () {
+    return view('landing');
+})->where('any', '.*');
