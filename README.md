@@ -68,4 +68,4 @@ exit
 
 ## Acknowledgement
 
-- [E-commerce in Laravel](https://blog.pusher.com/ecommerce-laravel-vue-part-2/)
+- [NEO IGHODARO](https://blog.pusher.com/author/neo/)
